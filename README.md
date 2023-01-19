@@ -1,5 +1,11 @@
 ## AWS Incident Response Playbook Samples
 
+## Background
+
+This playbook is created from the AWS IR plans templates.
+
+## From the Original Text
+
 These playbooks are created to be used as templates only. They should be customized by administrators working with AWS to suit their particular needs, risks, available tools and work processes. These guides are not official AWS documentation and are provided as-is to customers using AWS products and who are looking to improve their incident response capability.
 
 The playbooks included below cover several common scenarios faced by AWS customers. They outline steps based on the [NIST Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) (Special Publication 800-61 Revision 2) that can be used to:
