@@ -4,6 +4,12 @@
 
 This playbook is created from the AWS IR plans templates.
 
+## Playbooks
+- [Credentials Compromise](./playbooks/IRP-CredCompromise.md)
+- [Data Access](./playbooks/IRP-DataAccess.md)
+- [DoS](./playbooks/IRP-DoS.md)
+- [Randomware](./playbooks/IRP-Ransomware.md)
+
 ## From the Original Text
 
 These playbooks are created to be used as templates only. They should be customized by administrators working with AWS to suit their particular needs, risks, available tools and work processes. These guides are not official AWS documentation and are provided as-is to customers using AWS products and who are looking to improve their incident response capability.
