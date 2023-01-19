@@ -9,6 +9,7 @@ This playbook is created from the AWS IR plans templates.
 - [Data Access](./playbooks/IRP-DataAccess.md)
 - [DoS](./playbooks/IRP-DoS.md)
 - [Randomware](./playbooks/IRP-Ransomware.md)
+- [Users Offboarding Checklist](./playbooks/NC-UsersOffboardingPolicy.md)
 
 ## From the Original Text
 
