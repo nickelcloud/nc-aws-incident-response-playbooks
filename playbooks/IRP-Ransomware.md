@@ -1,4 +1,4 @@
-# Incident Response Playbook Template
+# Incident Response Playbook
 
 ### Incident Type
 Ransomware

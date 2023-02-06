@@ -6,6 +6,7 @@ This playbook is created from the AWS IR plans templates.
 
 ## Playbooks
 - [Credentials Compromise](./playbooks/IRP-CredCompromise.md)
+- [Root Account Compromise](./playbooks/IRP-RootAccessCompromise.md)
 - [Data Access](./playbooks/IRP-DataAccess.md)
 - [DoS](./playbooks/IRP-DoS.md)
 - [Randomware](./playbooks/IRP-Ransomware.md)
