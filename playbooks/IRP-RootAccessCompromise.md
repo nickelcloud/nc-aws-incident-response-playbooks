@@ -15,3 +15,7 @@ The general guidelines on the credentials compromise is applicable to this as we
 ### Part 3: Eradicate the Incident
 - Immediately request the admins to change the root account password if the MFA device is still accisible.
 - Use the AWS support line to temporarily disable the access if MFA device is not available
+
+## Additional Resources
+---
+[I can't sign in because my credentials don't work ](https://aws.amazon.com/premiumsupport/knowledge-center/forgot-aws-sign-in-credentials/ )
